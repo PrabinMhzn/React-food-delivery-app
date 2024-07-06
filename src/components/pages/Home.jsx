@@ -9,7 +9,7 @@ const Home = () => {
       <div
         className="flex flex-col md:flex-row items-center justify-center bg-cover bg-center bg-no-repeat bg-yellow-500 pb-10 w-full"
         style={{
-          backgroundImage: `url("src/assets/hero.jpg")`,
+          backgroundImage: `url("./hero.jpg")`,
         }}
       >
         <div className="w-1/2 h-full"></div>
@@ -39,7 +39,7 @@ const Home = () => {
         <div className="flex justify-center gap-8">
           <div className="w-full h-auto">
             <img
-              src="src/components/pages/images/pickplanfb.jpg"
+              src="./pickplanfb.jpg"
               alt=""
               className="rounded-2xl w-40 h-40"
             />
@@ -51,7 +51,7 @@ const Home = () => {
           </div>
           <div className="w-full h-auto">
             <img
-              src="src/components/pages/images/choosemeal.jpg"
+              src="./choosemeal.jpg"
               alt=""
               className="rounded-2xl w-40 h-40"
             />
@@ -63,7 +63,7 @@ const Home = () => {
           </div>
           <div className="w-full h-auto">
             <img
-              src="src/components/pages/images/deliver.jpg"
+              src="./deliver.jpg"
               alt=""
               className="rounded-2xl w-40 h-40"
             />
@@ -75,7 +75,7 @@ const Home = () => {
           </div>
           <div className="w-full h-auto">
             <img
-              src="src/components/pages/images/heateat.jpg"
+              src="./heateat.jpg"
               alt=""
               className="rounded-2xl w-40 h-40"
             />
