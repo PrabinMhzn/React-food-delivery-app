@@ -20,13 +20,7 @@
     "weight": "410g",
     "categories": ["New"]
   },
-  {
-    "image": "https://www.mymusclechef.com/_next/image?url=https%3A%2F%2Fwww.datocms-assets.com%2F81001%2F1691355635-bbq-fava-beans-1000x1000.jpg%3Fauto%3Dformat&w=1080&q=100",
-    "name": "BBQ Blava Beans",
-    "price": "$10.00",
-    "weight": "500g",
-    "categories": ["Snacks"]
-  },
+  
   {
     "image": "https://www.mymusclechef.com/_next/image?url=https%3A%2F%2Fwww.datocms-assets.com%2F81001%2F1718593198-pch008-3-0-katsu-chicken-large-web_002.jpg%3Fauto%3Dformat&w=1080&q=100",
     "name": "Katsu Chicken",
@@ -77,34 +71,8 @@
     "weight": "500g",
     "categories": ["Special"]
   },
-  {
-    "image": "https://www.mymusclechef.com/_next/image?url=https%3A%2F%2Fwww.datocms-assets.com%2F81001%2F1718593198-pch008-3-0-katsu-chicken-large-web_002.jpg%3Fauto%3Dformat&w=1080&q=100",
-    "name": "Katsu Chicken",
-    "price": "$10.00",
-    "weight": "500g",
-    "categories": ["Indian"]
-  },
-  {
-    "image": "https://www.mymusclechef.com/_next/image?url=https%3A%2F%2Fwww.datocms-assets.com%2F81001%2F1718593198-pch008-3-0-katsu-chicken-large-web_002.jpg%3Fauto%3Dformat&w=1080&q=100",
-    "name": "Katsu Chicken",
-    "price": "$10.00",
-    "weight": "500g",
-    "categories": ["Special"]
-  },
-  {
-    "image": "https://www.mymusclechef.com/_next/image?url=https%3A%2F%2Fwww.datocms-assets.com%2F81001%2F1718593198-pch008-3-0-katsu-chicken-large-web_002.jpg%3Fauto%3Dformat&w=1080&q=100",
-    "name": "Katsu Chicken",
-    "price": "$10.00",
-    "weight": "500g",
-    "categories": ["Special"]
-  },
-  {
-    "image": "https://www.mymusclechef.com/_next/image?url=https%3A%2F%2Fwww.datocms-assets.com%2F81001%2F1718593198-pch008-3-0-katsu-chicken-large-web_002.jpg%3Fauto%3Dformat&w=1080&q=100",
-    "name": "Katsu Chicken",
-    "price": "$10.00",
-    "weight": "500g",
-    "categories": ["Special"]
-  },
+ 
+  
   {
     "image": "https://i.ytimg.com/vi/CGujlcxkSek/maxresdefault.jpg",
     "name": "Samosa",
@@ -147,7 +115,7 @@
     "name": "Veg Momos",
     "price": "$12.00",
     "quantity": "10",
-    "categories": ["Snacks"]
+    "categories": ["Meals"]
   },
 
   {

@@ -38,7 +38,7 @@ const About = () => {
               Our Purpose
             </h1>
             <p className="px-4 text-sm md:text-base justify-center items-center text-justify font-medium hover:text-red-700 hover:scale-110">
-            My Muscle Chef is all about offering smart nutrition that enables you to feel your best. We pair high-quality meals with exceptional taste with the ultimate convenience and ease, allowing you to focus on your holistic health needs and fitness goals.
+            Fresh Bite is all about offering smart nutrition that enables you to feel your best. We pair high-quality meals with exceptional taste with the ultimate convenience and ease, allowing you to focus on your holistic health needs and fitness goals.
             </p>
           </div>
           <div className="p-4 ">
@@ -57,7 +57,7 @@ const About = () => {
             <HiOutlineDocumentText />
           </div>
           <p className="mt-2 md:mt-4 w-28 md:w-40 text-xs md:text-sm">
-            This is a small description below the icon.
+            Chef made melas with high- quality ingredients.
           </p>
         </div>
 
@@ -66,7 +66,7 @@ const About = () => {
             <LuHeartHandshake />
           </div>
           <p className="mt-2 md:mt-4 w-28 md:w-40 text-xs md:text-sm">
-            This is a small description below the icon.
+            Guidance from a team of experts.
           </p>
         </div>
         <div className="text-center m-8 flex-col justify-center items-center">
@@ -74,7 +74,7 @@ const About = () => {
             <IoChatboxEllipsesOutline />
           </div>
           <p className="mt-2 md:mt-4 w-28 md:w-40 text-xs md:text-sm">
-            This is a small description below the icon.
+            .
           </p>
         </div>
       </div>
@@ -93,10 +93,7 @@ const About = () => {
               How we've evolved
             </h1>
             <p className="px-4 mb-4 md:mb-8 text-sm md:text-base text-justify">
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius rem
-              sed tempore maiores error beatae nam aperiam quidem est eaque
-              atque illo voluptatum soluta, temporibus aliquam doloribus
-              expedita voluptate totam?
+            From 2019’s three-person kitchen to 2022’s best food manufacturing facility in Australia, Fresh Bite has had quite the ride. In recent years, we’ve developed a new plant-based range, taken products from frozen to fresh, and have been awarded the best food delivery service six years in a row. These days, you’ll find over 70 high-protein meals on our menu and snacks and drinks to FUEL EVERY BODY™.
             </p>
           </div>
         </div>
@@ -106,12 +103,7 @@ const About = () => {
               Our Beliefs
             </h1>
             <p className="px-4 text-sm md:text-base justify-center items-center mx-4 md:p-4 text-justify">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis
-              omnis nulla, sint iste laborum est veniam asperiores. Quam, eum
-              ipsam mollitia numquam beatae fugit velit quasi nam minus nulla
-              dolor impedit amet quo laborum ut rerum sit illum laudantium
-              doloremque, labore quis in necessitatibus officiis? In, ea?
-              Blanditiis, ratione labore!
+            Fresh Bite was born out of the need to find a better way. We put our customers at the heart of everything we do, continually embracing innovation and challenging ideas to deliver the best products in our power. We believe nutritional convenience can transform lives – physically, mentally and emotionally.
             </p>
           </div>
           <div className="p-4">
@@ -137,8 +129,7 @@ const About = () => {
           </p>
 
           <p className=" justify-center items-center py-2">
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque
-            amet perspiciatis alias esse deserunt neque aut hic non eum tempore!
+          We’re always on the lookout for like-minded, customer-centric individuals to join the Fresh Bite team. Check out our career page for more information! Did we mention our on-site gym?
           </p>
 
           <button className="cursor-pointer flex justify-center items-center text-white bg-red-950 hover:bg-red-500 active:border rounded-2xl duration-100 w-24 m-4 my-4">
