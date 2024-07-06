@@ -2,10 +2,10 @@ import React from "react";
 
 const Sidebar = () => {
   return (
-    <div className="flex-col top-36 mt-12 h-full">
+    <div className="hidden md:flex flex-col top-36 mt-12 h-full">
       <div className="text-black w-32 p-4">
         <h2 className="text-xl font-bold mb-4">All Menu</h2>
-        <ul className="font-medium" >
+        <ul className="font-medium">
           <li className="mb-1 text-sm">
             <a href="#" className="hover:text-red-600">
               All Meals

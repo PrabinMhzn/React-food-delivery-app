@@ -1,88 +1,153 @@
+import React from "react";
+
 const Footer = () => {
   return (
-    <div className="flex flex-col justify-center items-center w-full h-auto bg-gray-200 bottom-0 pb-4 ">
-      <div className="m-8 flex gap-8 py-8">
-        <div className="max-w-32 ">
-          <h1 className="font-bold mb-4 flex uppercase">
-            Fresh <h1 className="text-red-500">Bite</h1>
+    <div className="bg-gray-200 py-4">
+      <div className="max-w-7xl mx-auto px-4 grid grid-cols-1 md:grid-cols-4 gap-4">
+        {/* Logo and Address */}
+        <div className="text-center md:text-left mb-4">
+          <h1 className="font-bold mb-2">
+            Fresh <span className="text-red-500">Bite</span>
           </h1>
-          <ul className="text-xs uppercase">
-            <li>ABN</li>
-            <li>512 chalkstreet, Lutwyche, Brisbane, QLD 4030</li>
-          </ul>
+          <p className="text-xs">
+            ABN <br />
+            512 Chalkstreet, Lutwyche, Brisbane, QLD 4030
+          </p>
         </div>
-        <div>
-          <h1 className="font-medium text-sm mb-4">Our Ranges</h1>
-          <ul className="text-xs">
-            <li>Breakfast</li>
-            <li>Snacks and Treat</li>
-            <li>Drinks</li>
-            <li>Indian Foods</li>
-            <li>Protein Bites</li>
-            <li>Energy Drinks</li>
-            <li>Low Carb</li>
-            <li>Low Calorie</li>
-          </ul>
-        </div>
-        <div>
-          <h1 className="font-medium text-sm mb-4">About Us</h1>
-          <ul className="text-xs">
-            <li>Home</li>
-            <li>About</li>
-            <li>Meal Plans</li>
-            <li>Subscribe & Save</li>
-            <li>FreshBite App</li>
-            <li>Blog</li>
-            <li>Career</li>
-            <li>Student Discount</li>
-          </ul>
-        </div>
-        <div>
-          <h1 className="font-medium text-sm mb-4">Support</h1>
-          <ul className="text-xs">
-            <li>Contact Us</li>
-            <li>FAQs</li>
-            <li>Delivery</li>
-            <li>Stocklists</li>
-            <li>Dislaimer</li>
-            <li>Privacy</li>
-            <li>Terms</li>
-            <li>Corporate program enquiry</li>
-          </ul>
-        </div>
-        <div>
-          <h1 className="font-medium text-sm mb-4">Other Sites</h1>
 
-          <ul className="text-xs mb-8">
-            <li>Retail</li>
-            <li>Share Your Journey</li>
-          </ul>
-          <h1 className="font-medium text-sm mb-4">COntact Us</h1>
-
+        {/* Our Ranges */}
+        <div className="text-center md:text-left mb-4">
+          <h1 className="font-medium text-sm mb-2">Our Ranges</h1>
           <ul className="text-xs">
-            <li>Mon- Fri, 9am-6pm</li>
-            <li>Sat-Sun, 9am-5pm</li>
-            <li>1300 615 375</li>
+            <li className="hover:text-red-600 hover:underline">
+              <a href="#">Breakfast</a>
+            </li>
+            <li className="hover:text-red-600 hover:underline">
+              <a href="#">Snacks and Treats</a>
+            </li>
+            <li className="hover:text-red-600 hover:underline">
+              <a href="#">Drinks</a>
+            </li>
+            <li className="hover:text-red-600 hover:underline">
+              <a href="#">Indian Foods</a>
+            </li>
+            <li className="hover:text-red-600 hover:underline">
+              <a href="#">Protein Bites</a>
+            </li>
+            <li className="hover:text-red-600 hover:underline">
+              <a href="#">Special Drinks</a>
+            </li>
+            <li className="hover:text-red-600 hover:underline">
+              <a href="#">Low Carbs</a>
+            </li>
+            <li className="hover:text-red-600 hover:underline">
+              <a href="#">Low Calories</a>
+            </li>
           </ul>
         </div>
-        <div>
-          <h1 className="font-medium text-sm mb-4">Download Our App</h1>
+
+        {/* About Us */}
+        <div className="text-center md:text-left mb-4">
+          <h1 className="font-medium text-sm mb-2">About Us</h1>
+          <ul className="text-xs">
+            <li className="hover:text-red-600 hover:underline">
+              <a href="/">Home</a>
+            </li>
+            <li className="hover:text-red-600 hover:underline">
+              <a href="/about">About</a>
+            </li>
+            <li className="hover:text-red-600 hover:underline">
+              <a href="#">Meal Plan</a>
+            </li>
+            <li className="hover:text-red-600 hover:underline">
+              <a href="#">Subscribe and Save</a>
+            </li>
+            <li className="hover:text-red-600 hover:underline">
+              <a href="#">FreshBite App</a>
+            </li>
+            <li className="hover:text-red-600 hover:underline">
+              <a href="#">Blog</a>
+            </li>
+            <li className="hover:text-red-600 hover:underline">
+              <a href="#">Career</a>
+            </li>
+            <li className="hover:text-red-600 hover:underline">
+              <a href="#">Student Discount</a>
+            </li>
+          </ul>
+        </div>
+
+        {/* Support */}
+        <div className="text-center md:text-left mb-4">
+          <h1 className="font-medium text-sm mb-2">Support</h1>
+          <ul className="text-xs">
+            <li className="hover:text-red-600 hover:underline">
+              
+              <a href="#">Contact Us</a>
+            </li>
+            <li className="hover:text-red-600 hover:underline">
+             
+              <a href="#">FAQs</a>
+            </li>
+            <li className="hover:text-red-600 hover:underline">
+             
+              <a href="#">delivery</a>
+            </li>
+            <li className="hover:text-red-600 hover:underline"> 
+             
+              <a href="#">Stocklist</a>
+            </li>
+            <li className="hover:text-red-600 hover:underline">
+             
+              <a href="#">Disclaimer</a>
+            </li>
+            <li className="hover:text-red-600 hover:underline">
+             
+              <a href="#">Privacy</a>
+            </li>
+            <li className="hover:text-red-600 hover:underline">
+             
+              <a href="#">Terms</a>
+            </li>
+            <li className="hover:text-red-600 hover:underline">
+              
+              <a href="#">Corporate Program Enquiry</a>
+            </li>
+          </ul>
         </div>
       </div>
-      <div className="flex w-full gap-48">
-        <div className=" left-0 mx-8 ">
-          <ul className="flex">
-          <li ><img src="https://seeklogo.com/images/P/paypal-logo-484B6FE744-seeklogo.com.png" alt="" className="max-h-4"/></li>
-          <li ><img src="https://seeklogo.com/images/V/VISA-logo-A32D589D31-seeklogo.com.png" alt="" className="max-h-4"/></li>
-          <li><img src="https://seeklogo.com/images/M/Master_Card-logo-027CB51F96-seeklogo.com.png" alt="" className="max-h-4"/></li>
-          <li><img src="https://seeklogo.com/images/Z/zip-co-limited-logo-1C84A10335-seeklogo.com.png" alt="" className="max-h-4"/></li>
-          
-           
-          </ul>
-        </div>
 
-        <div className="absolute right-0 text-xs text-gray-500 mr-8">
-          Copyright 2019-2024 Freshbite Pty. Ltd. All rights reserved
+      {/* Additional Information */}
+      <div className="mt-4 max-w-7xl mx-auto px-4 text-xs text-center md:text-left">
+        <div className="flex flex-col md:flex-row justify-center md:justify-between items-center">
+          {/* Logos of payment methods */}
+          <div className="flex gap-4 mb-4 md:mb-0">
+            <img
+              src="https://seeklogo.com/images/P/paypal-logo-484B6FE744-seeklogo.com.png"
+              alt="PayPal"
+              className="h-4"
+            />
+            <img
+              src="https://seeklogo.com/images/V/VISA-logo-A32D589D31-seeklogo.com.png"
+              alt="Visa"
+              className="h-4"
+            />
+            <img
+              src="https://seeklogo.com/images/M/Master_Card-logo-027CB51F96-seeklogo.com.png"
+              alt="MasterCard"
+              className="h-4"
+            />
+            <img
+              src="https://seeklogo.com/images/Z/zip-co-limited-logo-1C84A10335-seeklogo.com.png"
+              alt="Zip Co Limited"
+              className="h-4"
+            />
+          </div>
+
+          {/* Copyright text */}
+          <div className="text-gray-500 text-center md:text-left">
+            &copy; 2019-2024 Freshbite Pty. Ltd. All rights reserved
+          </div>
         </div>
       </div>
     </div>

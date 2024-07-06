@@ -1,157 +1,315 @@
 [
-    {
-      "image": "https://www.mymusclechef.com/_next/image?url=https%3A%2F%2Fwww.datocms-assets.com%2F81001%2F1718593198-pch008-3-0-katsu-chicken-large-web_002.jpg%3Fauto%3Dformat&w=1080&q=100",
-      "name": "Katsu Chicken",
-      "price": "$10.00",
-      "weight": "500g",
-      "categories": ["New","Meals", "Snacks","Special"]
-    },
-    {
-        "image": "https://www.mymusclechef.com/_next/image?url=https%3A%2F%2Fwww.datocms-assets.com%2F81001%2F1718589844-vn033-3-0-vegan-mushroom-stroganoff-website-hi-res-min.jpg%3Fauto%3Dformat&w=1080&q=100",
-        "name": "Katsu Chicken",
-        "price": "$10.00",
-        "weight": "500g",
-        "categories": ["New"]
-      },
-      {
-        "image": "https://www.mymusclechef.com/_next/image?url=https%3A%2F%2Fwww.datocms-assets.com%2F81001%2F1718593198-pch008-3-0-katsu-chicken-large-web_002.jpg%3Fauto%3Dformat&w=1080&q=100",
-        "name": "Katsu Chicken",
-        "price": "$10.00",
-        "weight": "500g",
-        "categories": ["New"]
-      },
-      {
-        "image": "https://www.mymusclechef.com/_next/image?url=https%3A%2F%2Fwww.datocms-assets.com%2F81001%2F1691355635-bbq-fava-beans-1000x1000.jpg%3Fauto%3Dformat&w=1080&q=100",
-        "name": "BBQ Blava Beans",
-        "price": "$10.00",
-        "weight": "500g",
-        "categories": ["Snacks"]
-      },
-      {
-        "image": "https://www.mymusclechef.com/_next/image?url=https%3A%2F%2Fwww.datocms-assets.com%2F81001%2F1718593198-pch008-3-0-katsu-chicken-large-web_002.jpg%3Fauto%3Dformat&w=1080&q=100",
-        "name": "Katsu Chicken",
-        "price": "$10.00",
-        "weight": "500g",
-        "categories": ["New"]
-      },
-      {
-        "image": "https://www.mymusclechef.com/_next/image?url=https%3A%2F%2Fwww.datocms-assets.com%2F81001%2F1718593198-pch008-3-0-katsu-chicken-large-web_002.jpg%3Fauto%3Dformat&w=1080&q=100",
-        "name": "Katsu Chicken",
-        "price": "$10.00",
-        "weight": "500g",
-        "categories": ["Indian"]
-      },
-      {
-        "image": "https://www.mymusclechef.com/_next/image?url=https%3A%2F%2Fwww.datocms-assets.com%2F81001%2F1718593198-pch008-3-0-katsu-chicken-large-web_002.jpg%3Fauto%3Dformat&w=1080&q=100",
-        "name": "Katsu Chicken",
-        "price": "$10.00",
-        "weight": "500g",
-        "categories": ["New"]
-      },
-      {
-        "image": "https://www.mymusclechef.com/_next/image?url=https%3A%2F%2Fwww.datocms-assets.com%2F81001%2F1718593198-pch008-3-0-katsu-chicken-large-web_002.jpg%3Fauto%3Dformat&w=1080&q=100",
-        "name": "Katsu Chicken",
-        "price": "$10.00",
-        "weight": "500g",
-        "categories": ["New"]
-      },
-      {
-        "image": "https://www.mymusclechef.com/_next/image?url=https%3A%2F%2Fwww.datocms-assets.com%2F81001%2F1718593198-pch008-3-0-katsu-chicken-large-web_002.jpg%3Fauto%3Dformat&w=1080&q=100",
-        "name": "Katsu Chicken",
-        "price": "$10.00",
-        "weight": "500g",
-        "categories": ["New"]
-      },
+  {
+    "image": "https://www.mymusclechef.com/_next/image?url=https%3A%2F%2Fwww.datocms-assets.com%2F81001%2F1718593198-pch008-3-0-katsu-chicken-large-web_002.jpg%3Fauto%3Dformat&w=1080&q=100",
+    "name": "Katsu Chicken",
+    "price": "$10.00",
+    "weight": "500g",
+    "categories": ["New"]
+  },
+  {
+    "image": "https://www.mymusclechef.com/_next/image?url=https%3A%2F%2Fwww.datocms-assets.com%2F81001%2F1713504388-pk001-bbq-pulled-pork-with-mac-cheese.jpg%3Fauto%3Dformat&w=1920&q=100",
+    "name": "BBQ Pulled Pork",
+    "price": "$10.95",
+    "weight": "350g",
+    "categories": ["New"]
+  },
+  {
+    "image": "https://www.mymusclechef.com/_next/image?url=https%3A%2F%2Fwww.datocms-assets.com%2F81001%2F1715578570-chicken-laksa-1000-x-1000.jpg%3Fauto%3Dformat&w=1920&q=100",
+    "name": "Chicken Laksa",
+    "price": "$10.95",
+    "weight": "410g",
+    "categories": ["New"]
+  },
+  {
+    "image": "https://www.mymusclechef.com/_next/image?url=https%3A%2F%2Fwww.datocms-assets.com%2F81001%2F1691355635-bbq-fava-beans-1000x1000.jpg%3Fauto%3Dformat&w=1080&q=100",
+    "name": "BBQ Blava Beans",
+    "price": "$10.00",
+    "weight": "500g",
+    "categories": ["Snacks"]
+  },
+  {
+    "image": "https://www.mymusclechef.com/_next/image?url=https%3A%2F%2Fwww.datocms-assets.com%2F81001%2F1718593198-pch008-3-0-katsu-chicken-large-web_002.jpg%3Fauto%3Dformat&w=1080&q=100",
+    "name": "Katsu Chicken",
+    "price": "$10.00",
+    "weight": "500g",
+    "categories": ["New"]
+  },
+  {
+    "image": "https://www.mymusclechef.com/_next/image?url=https%3A%2F%2Fwww.datocms-assets.com%2F81001%2F1718593198-pch008-3-0-katsu-chicken-large-web_002.jpg%3Fauto%3Dformat&w=1080&q=100",
+    "name": "Katsu Chicken",
+    "price": "$10.00",
+    "weight": "500g",
+    "categories": ["Indian"]
+  },
+  {
+    "image": "https://www.mymusclechef.com/_next/image?url=https%3A%2F%2Fwww.datocms-assets.com%2F81001%2F1718593198-pch008-3-0-katsu-chicken-large-web_002.jpg%3Fauto%3Dformat&w=1080&q=100",
+    "name": "Katsu Chicken",
+    "price": "$10.00",
+    "weight": "500g",
+    "categories": ["New"]
+  },
+  {
+    "image": "https://www.mymusclechef.com/_next/image?url=https%3A%2F%2Fwww.datocms-assets.com%2F81001%2F1718593198-pch008-3-0-katsu-chicken-large-web_002.jpg%3Fauto%3Dformat&w=1080&q=100",
+    "name": "Katsu Chicken",
+    "price": "$10.00",
+    "weight": "500g",
+    "categories": ["New"]
+  },
+  {
+    "image": "https://www.mymusclechef.com/_next/image?url=https%3A%2F%2Fwww.datocms-assets.com%2F81001%2F1718593198-pch008-3-0-katsu-chicken-large-web_002.jpg%3Fauto%3Dformat&w=1080&q=100",
+    "name": "Katsu Chicken",
+    "price": "$10.00",
+    "weight": "500g",
+    "categories": ["New"]
+  },
 
-    {
-      "image": "https://via.placeholder.com/150",
-      "name": "Item 2",
-      "price": "$20.00",
-      "weight": "1kg",
-      "categories": ["New"]
-    },
-    {
-      "image": "https://via.placeholder.com/150",
-      "name": "Item 3",
-      "price": "$15.00",
-      "weight": "750g",
-      "categories": ["Category2"]
-    },
-    {
-      "image": "https://via.placeholder.com/150",
-      "name": "Item 4",
-      "price": "$25.00",
-      "weight": "1.5kg",
-      "categories": ["Category1", "Category3"]
-    },
-    {
-        "image": "https://via.placeholder.com/150",
-        "name": "Item 4",
-        "price": "$25.00",
-        "weight": "1.5kg",
-        "categories": ["Category1", "Category3"]
-      },
-      {
-        "image": "https://via.placeholder.com/150",
-        "name": "Item 4",
-        "price": "$25.00",
-        "weight": "1.5kg",
-        "categories": ["Category1", "Category3"]
-      },
-      {
-        "image": "https://via.placeholder.com/150",
-        "name": "Item 4",
-        "price": "$25.00",
-        "weight": "1.5kg",
-        "categories": ["Category1", "Category3"]
-      },{
-        "image": "https://via.placeholder.com/150",
-        "name": "Item 4",
-        "price": "$25.00",
-        "weight": "1.5kg",
-        "categories": ["Category1", "Category3"]
-      },
-      {
-        "image": "https://www.mymusclechef.com/_next/image?url=https%3A%2F%2Fwww.datocms-assets.com%2F81001%2F1691355635-bbq-fava-beans-1000x1000.jpg%3Fauto%3Dformat&w=1080&q=100",
-        "name": "BBQ Blava Beans",
-        "price": "$10.00",
-        "weight": "500g",
-        "categories": ["Snacks"]
-      },
-      {
-        "image": "https://www.mymusclechef.com/_next/image?url=https%3A%2F%2Fwww.datocms-assets.com%2F81001%2F1718593198-pch008-3-0-katsu-chicken-large-web_002.jpg%3Fauto%3Dformat&w=1080&q=100",
-        "name": "Katsu Chicken",
-        "price": "$10.00",
-        "weight": "500g",
-        "categories": ["Special"]
-      },
-      {
-        "image": "https://www.mymusclechef.com/_next/image?url=https%3A%2F%2Fwww.datocms-assets.com%2F81001%2F1718593198-pch008-3-0-katsu-chicken-large-web_002.jpg%3Fauto%3Dformat&w=1080&q=100",
-        "name": "Katsu Chicken",
-        "price": "$10.00",
-        "weight": "500g",
-        "categories": ["Indian"]
-      },
-      {
-        "image": "https://www.mymusclechef.com/_next/image?url=https%3A%2F%2Fwww.datocms-assets.com%2F81001%2F1718593198-pch008-3-0-katsu-chicken-large-web_002.jpg%3Fauto%3Dformat&w=1080&q=100",
-        "name": "Katsu Chicken",
-        "price": "$10.00",
-        "weight": "500g",
-        "categories": ["Special"]
-      },
-      {
-        "image": "https://www.mymusclechef.com/_next/image?url=https%3A%2F%2Fwww.datocms-assets.com%2F81001%2F1718593198-pch008-3-0-katsu-chicken-large-web_002.jpg%3Fauto%3Dformat&w=1080&q=100",
-        "name": "Katsu Chicken",
-        "price": "$10.00",
-        "weight": "500g",
-        "categories": ["Special"]
-      },
-      {
-        "image": "https://www.mymusclechef.com/_next/image?url=https%3A%2F%2Fwww.datocms-assets.com%2F81001%2F1718593198-pch008-3-0-katsu-chicken-large-web_002.jpg%3Fauto%3Dformat&w=1080&q=100",
-        "name": "Katsu Chicken",
-        "price": "$10.00",
-        "weight": "500g",
-        "categories": ["Special"]
-      }
-  ]
-  
+  {
+    "image": "https://www.mymusclechef.com/_next/image?url=https%3A%2F%2Fwww.datocms-assets.com%2F81001%2F1691355635-bbq-fava-beans-1000x1000.jpg%3Fauto%3Dformat&w=1080&q=100",
+    "name": "BBQ Blava Beans",
+    "price": "$10.00",
+    "weight": "500g",
+    "categories": ["Snacks"]
+  },
+  {
+    "image": "https://www.mymusclechef.com/_next/image?url=https%3A%2F%2Fwww.datocms-assets.com%2F81001%2F1718593198-pch008-3-0-katsu-chicken-large-web_002.jpg%3Fauto%3Dformat&w=1080&q=100",
+    "name": "Katsu Chicken",
+    "price": "$10.00",
+    "weight": "500g",
+    "categories": ["Special"]
+  },
+  {
+    "image": "https://www.mymusclechef.com/_next/image?url=https%3A%2F%2Fwww.datocms-assets.com%2F81001%2F1718593198-pch008-3-0-katsu-chicken-large-web_002.jpg%3Fauto%3Dformat&w=1080&q=100",
+    "name": "Katsu Chicken",
+    "price": "$10.00",
+    "weight": "500g",
+    "categories": ["Indian"]
+  },
+  {
+    "image": "https://www.mymusclechef.com/_next/image?url=https%3A%2F%2Fwww.datocms-assets.com%2F81001%2F1718593198-pch008-3-0-katsu-chicken-large-web_002.jpg%3Fauto%3Dformat&w=1080&q=100",
+    "name": "Katsu Chicken",
+    "price": "$10.00",
+    "weight": "500g",
+    "categories": ["Special"]
+  },
+  {
+    "image": "https://www.mymusclechef.com/_next/image?url=https%3A%2F%2Fwww.datocms-assets.com%2F81001%2F1718593198-pch008-3-0-katsu-chicken-large-web_002.jpg%3Fauto%3Dformat&w=1080&q=100",
+    "name": "Katsu Chicken",
+    "price": "$10.00",
+    "weight": "500g",
+    "categories": ["Special"]
+  },
+  {
+    "image": "https://www.mymusclechef.com/_next/image?url=https%3A%2F%2Fwww.datocms-assets.com%2F81001%2F1718593198-pch008-3-0-katsu-chicken-large-web_002.jpg%3Fauto%3Dformat&w=1080&q=100",
+    "name": "Katsu Chicken",
+    "price": "$10.00",
+    "weight": "500g",
+    "categories": ["Special"]
+  },
+  {
+    "image": "https://i.ytimg.com/vi/CGujlcxkSek/maxresdefault.jpg",
+    "name": "Samosa",
+    "price": "$5",
+    "quantity": "2",
+    "categories": ["Indian"]
+  },
+  {
+    "image": "https://sinfullyspicy.com/wp-content/uploads/2023/08/1200-by-1200-images.jpg",
+    "name": "Paneer Tikka",
+    "price": "$12.00",
+    "weight": "500g",
+    "categories": ["Indian"]
+  },
+
+  {
+    "image": "https://www.aromaandessence.com/wp-content/uploads/2023/09/Allo-tikki-1.webp",
+    "name": "Aloo Tikii",
+    "price": "$10.00",
+    "quantity": "4",
+    "categories": ["Indian"]
+  },
+  {
+    "image": "https://sinfullyspicy.com/wp-content/uploads/2024/03/3.jpg",
+    "name": "Samosa/Papdi Chaat",
+    "price": "$10.00",
+    "weight": "600g",
+    "categories": ["Snacks"]
+  },
+  {
+    "image": "https://content.jdmagicbox.com/comp/ghaziabad/g3/011pxx11.xx11.230906020733.d3g3/catalogue/the-golgappe-cafe-ghaziabad-pani-puri-centres-noatv6f6bu.jpg",
+    "name": "Paani Puri",
+    "price": "$10.00",
+    "quantity": "10",
+    "categories": ["Snacks"]
+  },
+
+  {
+    "image": " https://junifoods.com/wp-content/uploads/2023/11/Easy-Chicken-Momo-Dumplings-Sajilo-Kukhura-ko-Momo-%E0%A4%B8%E0%A4%9C%E0%A4%BF%E0%A4%B2%E0%A5%8B-%E0%A4%95%E0%A5%81%E0%A4%96%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%95%E0%A5%8B-%E0%A4%AE%E0%A4%AE.jpg",
+    "name": "Veg Momos",
+    "price": "$12.00",
+    "quantity": "10",
+    "categories": ["Snacks"]
+  },
+
+  {
+    "image": " https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_744,ar_5:4/v1/img/recipes/86/66/6/pic6EgRr7.jpg",
+    "name": "Non-Veg Momos",
+    "price": "$15.00",
+    "quantity": "10",
+    "categories": ["Snacks"]
+  },
+  {
+    "image": "https://annapurnaexpress.prixacdn.net/media/albums/chicken_chowmein_WUA7kDvFx2.jpg",
+    "name": "Non-Veg Chowmein Noodles",
+    "price": "$15.00",
+    "weight": "500g",
+    "categories": ["Meals"]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/22/d7/1a/22d71a06cf5771cb076e5df6ba1a92b9.jpg",
+    "name": "Veg Chowmein Noodles",
+    "price": "$12.00",
+    "weight": "500g",
+    "categories": ["Meals"]
+  },
+  {
+    "image": "https://img.buzzfeed.com/tasty-app-user-assets-prod-us-east-1/recipes/b2485ea520bf4e63bfec3a4195cf96be.jpeg?resize=1200:*&output-format=jpg&output-quality=auto",
+    "name": "Paneer Butter Masala",
+    "price": "$12-$18",
+    "weight": "approx. 250-300g",
+    "categories": ["Indian"]
+  },
+  {
+    "image": "https://www.feastingathome.com/wp-content/uploads/2018/12/Palak-Paneer-100-12.jpg",
+    "name": "Palak Paneer",
+    "price": "$10-$15",
+    "weight": "approx. 250-300g",
+    "categories": ["Indian"]
+  },
+  {
+    "image": "https://makeitdairyfree.com/wp-content/uploads/2023/10/chana-masala-9.jpg",
+    "name": "Chole (Chickpea Curry)",
+    "price": "$8-$12",
+    "weight": "approx. 250-300g",
+    "categories": ["Indian"]
+  },
+  {
+    "image": "https://spicecravings.com/wp-content/uploads/2022/01/Dal-Makhani-Featured.jpUsersaneeshaguptaDesktopCanon-EOS-5D-Mark-IVDal-Makhani-NewDal-Makhani-Featured.jpg",
+    "name": "Dal Makhani",
+    "price": "$12",
+    "weight": "approx. 250-300g",
+    "categories": ["Indian"]
+  },
+  {
+    "image": "https://carameltintedlife.com/wp-content/uploads/2021/05/Vegetable-Korma.jpg",
+    "name": "Vegetable Korma",
+    "price": "$8-$14",
+    "weight": "approx. 250-300g",
+    "categories": ["Indian"]
+  },
+  {
+    "image": "https://carameltintedlife.com/wp-content/uploads/2021/05/Vegetable-Korma.jpg",
+    "name": "Shahi Paneer",
+    "price": "$10-$15",
+    "weight": "approx. 250-300g",
+    "categories": ["Indian"]
+  },
+  {
+    "image": "https://www.gourmetdinnerservice.com.au/media/catalog/product/cache/053ca82584c675e6b2c3cc9c6dd43069/f/a/family_butter_chicken.jpg",
+    "name": "Butter Chicken",
+    "price": "$15-$18",
+    "weight": "approx. 250-300g",
+    "categories": ["Indian"]
+  },
+  {
+    "image": "https://static.vecteezy.com/system/resources/previews/035/978/502/large_2x/ai-generated-chicken-tikka-masala-or-chicken-tikka-indian-food-indian-food-feast-with-chicken-tikka-masala-curry-tandoori-chicken-and-appetizers-top-view-ai-generated-free-photo.jpg",
+    "name": "Chicken Tikka Masala",
+    "price": "$15-$18",
+    "weight": "approx. 250-300g",
+    "categories": ["Indian"]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQisBwqLk-Zsn__Oon8PWJV10dewtRjc0xsng&s",
+    "name": "Chicken Manchurian",
+    "price": "$15-$18",
+    "weight": "approx. 250-300g",
+    "categories": ["Indian"]
+  },
+  {
+    "image": "https://www.sprinklesandsprouts.com/wp-content/uploads/2022/06/Chicken-Saag-SQ.jpg",
+    "name": "Chicken Saag",
+    "price": "$15-$18",
+    "weight": "approx. 250-300g",
+    "categories": ["Indian"]
+  },
+  {
+    "image": "https://static01.nyt.com/images/2023/12/12/multimedia/ND-Chicken-Vindaloo-fkvc/ND-Chicken-Vindaloo-fkvc-superJumbo.jpg",
+    "name": "Chicken Vindaloo",
+    "price": "$15-$18",
+    "weight": "approx. 250-300g",
+    "categories": ["Indian"]
+  },
+  {
+    "image": "https://www.maggiarabia.com/sites/default/files/styles/home_stage_944_531/public/srh_recipes/30c29da8aec1403f42e82552d927abab.png?h=4f5b30f1&itok=vMhn6_eK",
+    "name": "Chicken Briyani",
+    "price": "$13.99",
+    "weight": "300g",
+    "Categories": ["Special"]
+  },
+  {
+    "image": "https://www.noracooks.com/wp-content/uploads/2022/05/vegan-biryani-7-500x500.jpg",
+    "name": "Veg Briyani",
+    "price": "$11.99",
+    "weight": "300g",
+    "categories": ["Special"]
+  },
+  {
+    "image": " https://www.onceuponachef.com/images/2023/12/Fried-Rice-Hero-12.jpg",
+    "name": "Fried Rice (Veg/Non-Veg)",
+    "price": "$10-$14",
+    "weight": "approx. 250-300g",
+    "categories": ["Special"]
+  },
+  {
+    "image": " https://dinedelicious.in/wp-content/uploads/2021/03/Punjabi-Chole-Recipe-16.jpg",
+    "name": "Chole Bhature",
+    "price": "$14.99",
+    "quantity": "1",
+    "categories": ["Special"]
+  },
+  {
+    "image": " https://images.slurrp.com/prod/articles/w8nwm22kkko.webp ",
+    "name": "Makki di roti sarso da raag",
+    "price": "$14.99",
+    "quantity": "1",
+    "categories": ["Special"]
+  },
+  {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/1a/4a/1b/32/combination-of-chutney.jpg",
+    "name": "Special Kulcha",
+    "price": "$14.99",
+    "quantity": "1",
+    "categories": ["Special"]
+  },
+
+  {
+    "image": "https://www.ruchiskitchen.com/wp-content/uploads/2021/09/Mughlai-chicken-recipe-6.jpg",
+    "name": "1 Veg or Non-Veg Curry with 2 Butter Naan or Rice",
+    "price": "$12.99-$15.99",
+    "quantity": "1",
+    "categories": ["Meals"]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNqg-lFAXq2R0l1eqnCO3JemB8Fie5rD6rVJnTuMpxO9DEjC7C_9ghjncLupQ5n7ocdfo&usqp=CAU",
+    "name": "2 Veg or Non-Veg curry with 2 Butter Naan with Rice",
+    "price": "$14.99-$18.99",
+    "quantity": "1",
+    "categories": ["Meals"]
+  },
+  {
+    "image": "https://www.shutterstock.com/image-photo/aloo-paratha-indian-potato-stuffed-260nw-1211151862.jpg",
+    "name": "Aloo/Gobi/Paneer/Methi/Mixed Vegetable Paratha with Raita",
+    "price": "$12.99-$15.99",
+    "quantity": "1",
+    "categories": ["Meals"]
+  }
+]

@@ -1,22 +1,20 @@
 import React, { useRef, useState } from "react";
 import { motion } from "framer-motion";
 
-export const FullMenuToogle = ({ setSelectedCategory }) => {
+const FullMenuToggle = ({ setSelectedCategory, tabs }) => {
   return (
     <div>
-      <SlideTabs setSelectedCategory={setSelectedCategory} />
+      <SlideTabs setSelectedCategory={setSelectedCategory} tabs={tabs} />
     </div>
   );
 };
 
-const SlideTabs = ({ setSelectedCategory }) => {
+const SlideTabs = ({ setSelectedCategory, tabs }) => {
   const [position, setPosition] = useState({
     left: 0,
     width: 0,
     opacity: 0,
   });
-
-  const tabs = ["New", "Special", "Meals", "Snacks", "Indian", "Drinks"];
 
   const [selectedTab, setSelectedTab] = useState(tabs[0]); // Initial selected tab
 
@@ -33,7 +31,7 @@ const SlideTabs = ({ setSelectedCategory }) => {
           opacity: 0,
         }));
       }}
-      className="flex justify-center md:gap-8 lg:gap-32 p-1"
+      className="flex justify-center md:gap-8 lg:gap-32 p-1 mb-2"
     >
       {tabs.map((tab, index) => (
         <Tab
@@ -86,3 +84,5 @@ const Cursor = ({ position }) => {
     />
   );
 };
+
+export default FullMenuToggle;

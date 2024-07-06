@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "title": "Masala Chai",
+    "link": "https://masalaandchai.com/wp-content/uploads/2021/07/Masala-Chai.jpg",
+    "description": "Indian Beverage with Spices, Sugar and Milk",
+    "price": 4.00
+  },
+  {
+    "id": 2,
+    "title": "Mango Lassi",
+    "link": "https://i.ytimg.com/vi/yJQgytPx-Eg/maxresdefault.jpg",
+    "description": "Refreshing drink made with Mango, milk, sugar and a bit of Cardamom",
+    "price": 5.00
+  },
+  {
+    "id": 3,
+    "title": "Strawberry Lassi",
+    "link": "https://www.allrecipes.com/thmb/0c6Dl-H1E2TDkWrpKeryJR6Qw-U=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/377687-3e2d8b10d7d04162ba00b05622d2bef4.jpg",
+    "description": "Refreshing  blend of yogurt, milk, and ripe strawberries served over ice",
+    "price": 5.00
+  },
+  {
+    "id": 4,
+    "title": "Rose Lassi",
+    "link": "https://www.vegrecipesofindia.com/wp-content/uploads/2015/05/rose-lassi-recipe.jpg",
+    "description": "Refreshing  beverage made with fresh curd, rose petals and rose syrup",
+    "price": 5.00
+  },
+  {
+    "id": 5,
+    "title": "Masala Lassi",
+    "link": "https://www.flavourstreat.com/wp-content/uploads/2018/06/masala-lassi-700x368.jpg",
+    "description": "rejuvenating flavoured buttermilk.",
+    "price": 5.00
+  },
+  {
+    "id": 6,
+    "title": "Fresh Juice",
+    "link": "https://images.pexels.com/photos/4443487/pexels-photo-4443487.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "Mixed fruit Juice",
+    "price": 6.00
+  },
+  {
+    "id": 7,
+    "title": "Masala Lemonade (Nimbu Paani)",
+    "link": "https://static.toiimg.com/thumb/85616103.cms?imgsize=72964&width=800&height=800",
+    "description": " Traditional and very refreshing lemonade of North India and Pakistan",
+    "price": 6.00
+  },
+  {
+    "id": 8,
+    "title": "Rooh Afza (Sharbat)",
+    "link": "https://www.babsprojects.com/wp-content/uploads/2023/04/rooh-afza-drinks-1-720x720.jpg",
+    "description": "Rooh Afza Sharbat is a thirst-quenching, energizing, cooling drink ",
+    "price": 5.00
+  }
+]

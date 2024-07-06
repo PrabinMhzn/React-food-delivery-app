@@ -1,0 +1,13 @@
+[
+    { "id": 1, "title": "Dessert 1", "link": "https://images.pexels.com/photos/1126359/pexels-photo-1126359.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1", "description": "Delicious dessert 1.", "price": 6.99 },
+    { "id": 2, "title": "Dessert 2", "link": "/images/dessert2.jpg", "description": "Delicious dessert 2.", "price": 7.99 },
+    { "id": 3, "title": "Dessert 2", "link": "/images/dessert2.jpg", "description": "Delicious dessert 2.", "price": 7.99 },
+    { "id": 4, "title": "Dessert 1", "link": "/images/dessert1.jpg", "description": "Delicious dessert 1.", "price": 6.99 },
+    { "id": 5, "title": "Dessert 2", "link": "/images/dessert2.jpg", "description": "Delicious dessert 2.", "price": 7.99 },
+    { "id": 6, "title": "Dessert 1", "link": "/images/dessert1.jpg", "description": "Delicious dessert 1.", "price": 6.99 },
+    { "id": 7, "title": "Dessert 2", "link": "/images/dessert2.jpg", "description": "Delicious dessert 2.", "price": 7.99 },
+    { "id": 8, "title": "Dessert 1", "link": "/images/dessert1.jpg", "description": "Delicious dessert 1.", "price": 6.99 },
+    { "id": 9, "title": "Dessert 2", "link": "/images/dessert2.jpg", "description": "Delicious dessert 2.", "price": 7.99 },
+    { "id": 10, "title": "Dessert 3", "link": "/images/dessert3.jpg", "description": "Delicious dessert 3.", "price": 8.99 }
+  ]
+  
